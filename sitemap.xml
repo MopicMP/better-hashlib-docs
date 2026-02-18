@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/index.html</loc><priority>1.0</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-sha256.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-sha512.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-md5.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-sha1.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-sha3-256.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-blake2b.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-blake2s.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-new.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-pbkdf2-hmac.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-scrypt.html</loc><priority>0.8</priority></url>
+  <url><loc>https://MopicMP.github.io/better-hashlib-docs/hashlib-algorithms-available.html</loc><priority>0.8</priority></url>
+</urlset>
